@@ -1,0 +1,7 @@
+- https://www.youtube.com/watch?v=u64sWJEP4S0
+- https://stackoverflow.com/questions/22132525/add-column-with-number-of-days-between-dates-in-dataframe-pandas
+- https://www.w3resource.com/pandas/crosstab.php
+- https://stackoverflow.com/questions/37840812/pandas-subtracting-two-date-columns-and-the-result-being-an-intege
+
+
+
